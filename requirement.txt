@@ -1,3 +1,4 @@
-streamlit
+firbase-admin
 pandas
-firebase-admin
+streamlit
+
